@@ -14,3 +14,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 - Solve **1+ SQL problem daily**
 - Build a strong SQL foundation
 - Showcase progress via GitHub
+
+## 🧩 My LeetCode Stats
+[Leetcode stats](https://leetcard.jacoblin.cool/shanvi1706?ext=heatmap)
+
