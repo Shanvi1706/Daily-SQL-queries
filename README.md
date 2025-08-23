@@ -1,5 +1,6 @@
 # Daily-SQL-queries
-My daily SQL query practice from SSMS, organized by date and topic.
+This repository contains my **daily SQL query solutions** from **HackerRank** and **LeetCode** challenges.
+
 
 ## 📅 Structure
 - Organized by **year** → **month** → **day**.
@@ -8,3 +9,8 @@ My daily SQL query practice from SSMS, organized by date and topic.
   - Problem name
   - Link to the question
   - Final SQL query
+
+## 🎯 Goal
+- Solve **1+ SQL problem daily**
+- Build a strong SQL foundation
+- Showcase progress via GitHub
