@@ -18,3 +18,11 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 ## 🧩 My LeetCode Stats
 [Leetcode stats](https://leetcard.jacoblin.cool/shanvi1706?ext=heatmap)
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
