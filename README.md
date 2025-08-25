@@ -25,4 +25,5 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
