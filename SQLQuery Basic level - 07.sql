@@ -128,6 +128,113 @@ SELECT
 From sales.orders
 WHERE Month(Orderdate) = 2
 
+--FORMAT & CASTING 
+--FORMATTING 
+
+SELECT
+OrderID,
+CreationTime,
+FORMAT(CreationTime, 'MM-dd-yyyy') USA_format,
+FORMAT(CreationTime, 'dd-MM-yyyy') EURO_format,
+FORMAT(CreationTime,'dd') dd,
+FORMAT(CreationTime,'ddd') ddd,
+FORMAT(CreationTime,'dddd') dddd,
+FORMAT(CreationTime,'MM') MM,
+FORMAT(CreationTime,'MMM') MMM,
+FORMAT(CreationTime,'MMMM') MMMM
+FROM Sales.Orders
+
+--Show CreationTime using the following format:
+--Day Wed Jan Q1 2025 12:34:56 PM ( Q REFERS QUARTER)
+SELECT
+OrderID,
+CreationTime,
+'Day ' + FORMAT(CreationTime, 'ddd  MMM') + 
+' Q'+ DATENAME(quarter, CreationTime)+ ' ' +
+FORMAT(CreationTime, 'yyyy hh:mm:ss tt') AS CustomerFormat
+FROM Sales.Orders
+
+--Another query for this format ---
+SELECT
+FORMAT(OrderDate, 'MMM yy') OrderDate,
+COUNT(*)
+FROM Sales.Orders
+GROUP BY FORMAT(OrderDate,'MMM yy')
+ 
+--CONVERT()--
+SELECT 
+CONVERT(INT, '123') AS [String to Int Convert],
+CONVERT(DATE, '2025-08-20') AS [String to Date CONVERT]
+
+--CAST()---------
+SELECT
+CAST('123'as int) AS [string to Int],
+CAST(123 as VARCHAR) AS [Int to string],
+CAST('2025-08-20' as DATE) AS [String to Date],
+CAST ('2025-08-20' as DATEtime2) AS [String to Datetime],
+CreationTime,
+CAST(CreationTime AS DATE) as [Datetime to Date]
+FROM Sales.Orders
+
+--DATE CALCULATIONS ----
+--DATEADD()
+SELECT
+OrderID,
+OrderDate,
+DATEADD(day , -10 , OrderDate) AS TendaysBefore,
+DATEADD(day , 3 , OrderDate) AS ThreeMOnthssLater
+FROM Sales.Orders
+
+--DATEDIFF()------
+--Calculate the age of Employees
+SELECT
+EmployeeID,
+BirthDate,
+DATEDIFF(year, BirthDate , GETDATE()) Age
+from Sales.Employees
+
+--Find the average shipping duration in days for each month---
+SELECT
+MONTH(OrderDate) as OrderDate,
+AVG(DATEDIFF( day, OrderDate , ShipDate)) aVGShip  
+from Sales.Orders
+Group BY MONTH(OrderDate)
+
+--TIME GAP ANALYSIS
+--find the no. of days between each order and the previous order
+SELECT
+Orderid,
+OrderDate CurrentOrderDate,
+LAG(OrderDate) Over ( ORDER BY OrderDate) PreviousOrderDate,
+Datediff(day ,LAG(OrderDate) Over ( ORDER BY OrderDate) , OrderDate) NOOFDAYS
+From Sales.Orders
+
+--Date Validation----
+--ISDATE()
+SELECT 
+ISDATE('123') DateCheck1
+
+--NULL FUNCTIONS--------
+--ISNULL | COALESCE
+--Find the average scores of the customers 
+SELECT
+CustomerID,
+Score,
+Coalesce(Score, 0) Score2,
+AVG(Score) Over () AvgScores,
+AVG(COALESCE(Score,0)) OVER() AvgScores
+FROM Sales.Customers
+
+
+
+
+
+
+
+
+
+
+
 
 
 
