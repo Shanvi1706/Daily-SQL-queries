@@ -1,5 +1,5 @@
 --Query - ROW-LEVEL SQL Functions  
--- END DATE - 
+-- END DATE - 28 Aug 2025
 
 --STRING FUNCTIONS (CONCAT)
 --Show a list of customers first name together with their country in one column 
@@ -224,6 +224,79 @@ Coalesce(Score, 0) Score2,
 AVG(Score) Over () AvgScores,
 AVG(COALESCE(Score,0)) OVER() AvgScores
 FROM Sales.Customers
+
+--Display the full name of customers in a single field by merging their
+-- first and last names, and add 10 bonus poimts to each customer's score
+SELECT 
+CustomerID,
+Firstname,
+Lastname,
+FirstName + ' ' + COALESCE(lastName ,'') AS Fullname,
+Score,
+COALESCE(Score,0) + 10 AS ScoreWithBonus
+FROM Sales.Customers;
+
+--Sort the customers from lowest to highest scores,
+--with nulls appearing last
+SELECT
+CustomerID,
+Score
+FROM Sales.Customers
+Order BY CASE WHEN Score IS NULL THEN 1 ELSE 0 END, Score 
+
+--NULLIF----
+--Find the sales price for each order by dividing sales by quantity 
+SELECT
+OrderID,
+Sales,
+Quantity,
+Sales / NULLIF(Quantity,0) as Price
+FROM Sales.Orders
+
+--ISNULL/ISNOTNULL
+--filtering data 
+--Identify the customers who have no scores 
+SELECT 
+*
+FROM Sales.Customers
+WHERE Score IS NULL
+
+--List of all customers who have scores 
+SELECT
+*
+from Sales.Customers
+WHERE Score IS NOT NULL
+
+--List of all details of customers who have not places any orders
+SELECT
+c.*,
+o.OrderID
+FROM Sales.Customers c
+LEFT JOIN Sales.Orders o
+ON c.CustomerID = o. CustomerID
+WHERE o. CustomerID IS NULL
+
+--DATA POLICY -----
+--NULL/ EMPTY SPACES/BLANK SPACES 
+WITH orders AS(
+SELECT 1 id, 'A' Category UNION 
+SELECT 2, NULL UNION
+SELECT 3, '' UNION
+SELECT 4, '   ' 
+)
+SELECT
+*,
+TRIM(Category)Policy1,
+NULLIF(TRIM(Category), '') Policy2,
+COALESCE(NULLIF(TRIM(Category), '') , 'unknown') Policy3
+From Orders
+
+
+
+
+
+
+
 
 
 
