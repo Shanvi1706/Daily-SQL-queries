@@ -33,4 +33,5 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [0182-duplicate-emails](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
