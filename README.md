@@ -35,4 +35,5 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [0184-department-highest-salary](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
