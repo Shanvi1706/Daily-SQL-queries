@@ -34,4 +34,9 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [0183-customers-who-never-order](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0262-trips-and-users) |
+| [1179-game-play-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1179-game-play-analysis-i) |
+| [1182-game-play-analysis-iv](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
