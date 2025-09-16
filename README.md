@@ -39,6 +39,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [0262-trips-and-users](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0584-find-customer-referee) |
 | [1179-game-play-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
