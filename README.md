@@ -42,6 +42,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [0584-find-customer-referee](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0595-big-countries) |
 | [1179-game-play-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
