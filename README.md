@@ -46,6 +46,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [0596-classes-with-at-least-5-students](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0607-sales-person](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0607-sales-person) |
 | [1179-game-play-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
