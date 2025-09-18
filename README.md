@@ -48,6 +48,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
