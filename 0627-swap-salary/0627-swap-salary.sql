@@ -2,5 +2,5 @@
 UPDATE Salary
 SET sex = CASE 
              WHEN sex = 'm' THEN 'f'
-             ELSE 'm'
+             WHEN sex = 'f' THEN 'm'
           END;
