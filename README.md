@@ -53,6 +53,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [0620-not-boring-movies](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0627-swap-salary) |
+| [1135-customers-who-bought-all-products](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1135-customers-who-bought-all-products) |
 | [1179-game-play-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
