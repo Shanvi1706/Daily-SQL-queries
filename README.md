@@ -57,6 +57,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1155-product-sales-analysis-iii) |
+| [1161-project-employees-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
