@@ -62,4 +62,5 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1179-game-play-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1258-article-views-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
