@@ -65,4 +65,5 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1258-article-views-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1278-product-price-at-a-given-date) |
+| [1292-immediate-food-delivery-ii](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1292-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
