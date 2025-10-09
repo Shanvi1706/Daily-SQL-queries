@@ -69,6 +69,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1301-reformat-department-table](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1338-queries-quality-and-percentage](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1338-queries-quality-and-percentage) |
 ## Array
 |  |
 | ------- |
