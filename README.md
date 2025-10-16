@@ -75,6 +75,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1452-restaurant-growth](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1480-movie-rating) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Array
 |  |
 | ------- |
