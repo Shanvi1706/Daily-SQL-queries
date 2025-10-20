@@ -78,6 +78,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1625-group-sold-products-by-the-date) |
 ## Array
 |  |
 | ------- |
