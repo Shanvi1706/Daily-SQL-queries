@@ -84,6 +84,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1734-bank-account-summary-ii](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1734-bank-account-summary-ii) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1811-fix-names-in-a-table) |
 ## Array
 |  |
 | ------- |
