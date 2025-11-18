@@ -86,6 +86,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1801-average-time-of-process-per-machine](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1837-daily-leads-and-partners) |
 ## Array
 |  |
 | ------- |
