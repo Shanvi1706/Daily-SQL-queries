@@ -87,6 +87,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1811-fix-names-in-a-table](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1837-daily-leads-and-partners) |
+| [1877-find-followers-count](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1877-find-followers-count) |
 ## Array
 |  |
 | ------- |
