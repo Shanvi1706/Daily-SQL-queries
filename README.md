@@ -85,6 +85,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1757-recyclable-and-low-fat-products) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1789-primary-department-for-each-employee](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1789-primary-department-for-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1827-invalid-tweets) |
