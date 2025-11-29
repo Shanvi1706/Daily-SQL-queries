@@ -94,6 +94,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1873-calculate-special-bonus](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1873-calculate-special-bonus) |
 | [1877-find-followers-count](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1965-employees-with-missing-information](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1965-employees-with-missing-information) |
 ## Array
 |  |
 | ------- |
