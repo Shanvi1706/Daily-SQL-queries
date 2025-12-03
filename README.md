@@ -96,6 +96,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Array
