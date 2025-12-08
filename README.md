@@ -102,6 +102,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3421-find-students-who-improved) |
+| [3436-find-valid-emails](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3436-find-valid-emails) |
 ## Array
 |  |
 | ------- |
