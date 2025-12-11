@@ -105,6 +105,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [3436-find-valid-emails](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3436-find-valid-emails) |
 | [3451-find-invalid-ip-addresses](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3451-find-invalid-ip-addresses) |
 | [3475-dna-pattern-recognition](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3475-dna-pattern-recognition) |
+| [3482-analyze-organization-hierarchy](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3482-analyze-organization-hierarchy) |
 ## Array
 |  |
 | ------- |
