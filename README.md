@@ -107,6 +107,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [3475-dna-pattern-recognition](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3475-dna-pattern-recognition) |
 | [3482-analyze-organization-hierarchy](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3497-analyze-subscription-conversion) |
+| [3521-find-product-recommendation-pairs](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3521-find-product-recommendation-pairs) |
 ## Array
 |  |
 | ------- |
