@@ -111,6 +111,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [3554-find-category-recommendation-pairs](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3554-find-category-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3570-find-books-with-no-available-copies) |
+| [3580-find-consistently-improving-employees](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3580-find-consistently-improving-employees) |
 ## Array
 |  |
 | ------- |
