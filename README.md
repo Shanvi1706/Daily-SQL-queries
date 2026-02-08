@@ -5,7 +5,6 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 ## 📅 Structure
 - Organized by **year** → **month** → **day**.
 - Each file includes:
-  - Date
   - Problem name
   - Link to the question
   - Final SQL query
