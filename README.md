@@ -117,6 +117,7 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0136-single-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0417-pacific-atlantic-water-flow) |
 ## Depth-First Search
 |  |
@@ -130,4 +131,8 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0417-pacific-atlantic-water-flow) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
