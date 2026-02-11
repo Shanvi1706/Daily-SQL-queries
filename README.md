@@ -114,7 +114,6 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [3586-find-covid-recovery-patients](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3586-find-covid-recovery-patients) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 | [3611-find-overbooked-employees](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3611-find-overbooked-employees) |
-
 | [0417-pacific-atlantic-water-flow](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0417-pacific-atlantic-water-flow) |
 ## Depth-First Search
 |  |
@@ -128,8 +127,6 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0417-pacific-atlantic-water-flow) |
-## Bit Manipulation
-|  |
 | ------- |
 | [0136-single-number](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
