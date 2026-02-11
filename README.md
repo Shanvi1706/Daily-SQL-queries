@@ -115,18 +115,4 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 | [3611-find-overbooked-employees](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/3611-find-overbooked-employees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0417-pacific-atlantic-water-flow) |
-## Depth-First Search
-|  |
-| ------- |
-| [0417-pacific-atlantic-water-flow](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0417-pacific-atlantic-water-flow) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0417-pacific-atlantic-water-flow](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0417-pacific-atlantic-water-flow) |
-## Matrix
-|  |
-| ------- |
-| [0417-pacific-atlantic-water-flow](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0417-pacific-atlantic-water-flow) |
-| ------- |
-| [0136-single-number](https://github.com/Shanvi1706/Daily-SQL-queries/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
