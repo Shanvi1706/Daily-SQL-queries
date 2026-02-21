@@ -1,5 +1,5 @@
 # Daily-SQL-queries
-This repository contains my **daily SQL query solutions** from **HackerRank** and **LeetCode** challenges.
+This repository contains my **daily SQL query solutions and Python questions** from **HackerRank** and **LeetCode** challenges.
 
 
 ## 📅 Structure
@@ -8,10 +8,12 @@ This repository contains my **daily SQL query solutions** from **HackerRank** an
   - Problem name
   - Link to the question
   - Final SQL query
+  - Final Python program 
 
 ## 🎯 Goal
 - Solve **1+ SQL problem daily**
-- Build a strong SQL foundation
+- Solve **1+ Python Problem daily**
+- Build a strong SQL foundation and python
 - Showcase progress via GitHub
 
 ## 🧩 My LeetCode Stats
