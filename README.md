@@ -1,5 +1,5 @@
 # Daily-SQL-Python-questions-queries
-This repository contains my **daily SQL query solutions and Python solutions** from **HackerRank** and **LeetCode** challenges.
+This repository contains my **daily SQL query solutions and Python solutions** from **HackerRank** , **LeetCode**, **Stratascratch** and **Datalemur** challenges.
 
 
 ## 📅 Structure
